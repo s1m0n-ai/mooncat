@@ -1,0 +1,1 @@
+(()=>{var n=1;window.addPassenger=function(){n++},window.remPassenger=function(){n--},window.redirectRaydium=function(){var o="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=HA4PQENAtCzvfqyCXRzVrTpX5f2oPCgLjcvBojwDDE4S&inputAmount="+.5*n;window.open(o,"_blank")},window.copyCA=function(){navigator.clipboard.writeText("HA4PQENAtCzvfqyCXRzVrTpX5f2oPCgLjcvBojwDDE4S")}})();
